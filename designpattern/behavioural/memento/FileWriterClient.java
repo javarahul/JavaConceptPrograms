@@ -1,5 +1,5 @@
 package javaprograms.designpattern.behavioural.memento;
-
+/*Taken from journaldev site*/
 public class FileWriterClient {
 
 	public static void main(String[] args) {
