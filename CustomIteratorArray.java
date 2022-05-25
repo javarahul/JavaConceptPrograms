@@ -53,6 +53,13 @@ public class CustomIteratorArray<T> implements Iterable<T> {
 				values[currIndex] = null;
 			}
 		}
+		
+		public T peek() {
+			if (currIndex > -1) {
+				return values[currIndex];
+			}
+			return null;
+		}
 	}
 
 	public static void main(String[] args) {
