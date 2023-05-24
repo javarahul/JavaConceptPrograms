@@ -1,0 +1,10 @@
+Runtime class of java.lang package eager singeton way of creation
+
+Desktop class of java.awt package threadsafe singleton class
+
+System class of java.lang package eager singeton way of creation
+
+Logging and Caching can create for Singleton
+Threadpool
+Database
+ConnectionPool
