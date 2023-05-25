@@ -1,0 +1,15 @@
+java.util.Calendar and java.text.NumberFormat getInstance()  method
+
+java.util.ResourceBundle getBundle() method
+
+java.util.EnumSet of() method
+
+java.sql.DriverManager getConnection() method
+
+java.net.url openConnection() method
+
+java.lang.Class newInstance() method
+
+java.lang.Class forName() method
+
+java.nio..charset.Charset forName() method
